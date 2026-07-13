@@ -8,19 +8,14 @@
       ],
       "uploadDate": "2026-07-12T00:00:00.000Z",
       "fileSize": "274 MB"
-    }
-  ]
-}
-{
-  "name": "GameJolt",
-  "downloads": [
+    },
     {
-      "title": "Ultimate Custom Night",
+      "title": "Outro Jogo da Steam",
       "uris": [
-        "https://gofile.io/d/URvHng"
+        "LINK_DO_DOWNLOAD"
       ],
       "uploadDate": "2026-07-12T00:00:00.000Z",
-      "fileSize": "2 GB"
+      "fileSize": "TAMANHO"
     }
   ]
 }

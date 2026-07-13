@@ -2,7 +2,7 @@
   "name": "Zyrox",
   "downloads": [
     {
-      "title": "Ultimate Custom Night (Steam)",
+      "title": "Ultimate Custom Night",
       "uris": [
         "https://gofile.io/d/tVwOnI"
       ],
@@ -10,12 +10,20 @@
       "fileSize": "274 MB"
     },
     {
-      "title": "Ultra Custom Night (GameJolt)",
+      "title": "Ultimate Custom Night",
       "uris": [
         "https://gofile.io/d/URvHng"
       ],
       "uploadDate": "2026-07-12T00:00:00.000Z",
       "fileSize": "2 GB"
+    },
+    {
+      "title": "BOMBANANA!",
+      "uris": [
+        "https://gofile.io/d/Kn2oc5"
+      ],
+      "uploadDate": "2026-07-12T00:00:00.000Z",
+      "fileSize": "70 MB"
     }
   ]
 }

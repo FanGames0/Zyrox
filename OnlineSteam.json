@@ -1,53 +1,14 @@
 {
   "name": "OnlineSteam",
-  "downloads":200000 [
-    {
-      "title": "False Maljkil",
-      "uris": [
-        "https://gofile.io/d/lHIoGuiouL"
-      ],
-      "uploadDate": "2026-07-14T00:00:00.000Z",
-      "fileSize": "1.30 GB"
-    },
+  "downloads": 200000,
+  "games": [
     {
       "title": "False Mall",
       "uris": [
         "https://gofile.io/d/lHIoGL"
       ],
-      "uploadDate": "2026-07-12T00:00:00.000Z",
-      "fileSize": "274 MB"
-    },
-    {
-      "title": "Freddy Fazbear's Pizzeria Simulator",
-      "uris": [
-        "https://gofile.io/d/J5QvhI"
-      ],
-      "uploadDate": "2026-07-12T00:00:00.000Z",
-      "fileSize": "293 MB"
-    },
-    {
-      "title": "R.E.P.O",
-      "uris": [
-        "https://gofile.io/d/ldoiF0"
-      ],
       "uploadDate": "2026-07-14T00:00:00.000Z",
-      "fileSize": "1.40 GB"
-    },
-    {
-      "title": "Backrooms Escape Together",
-      "uris": [
-        "https://gofile.io/d/UI1wO5"
-      ],
-      "uploadDate": "2026-07-14T00:00:00.000Z",
-      "fileSize": "12.8 GB"
-    },
-    {
-      "title": "BOMBANANA!",
-      "uris": [
-        "https://gofile.io/d/Kn2oc5"
-      ],
-      "uploadDate": "2026-07-12T00:00:00.000Z",
-      "fileSize": "70 MB"
+      "fileSize": "1.30 GB"
     }
   ]
 }
